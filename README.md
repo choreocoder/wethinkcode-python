@@ -8,7 +8,7 @@ This repository contains my solutions and progress through Harvard's CS50: Intro
 
 ✅ Week 1 – Conditionals 
 
-🚧 Week 3 - Loops (IN PROGRESS)
+🚧 Week 2 - Loops (IN PROGRESS)
 
 
 🚀 Why I Took CS50
