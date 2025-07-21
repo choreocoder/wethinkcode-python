@@ -6,7 +6,7 @@ This repository contains my solutions and progress through Harvard's CS50: Intro
 
 ✅ Week 0 – Functions & Variables
 
-✅ Week 1 – Conditionals ✅🚧
+✅ Week 1 – Conditionals 
 
 ✅ Week 2 - Loops 
 
