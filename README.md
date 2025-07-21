@@ -6,9 +6,11 @@ This repository contains my solutions and progress through Harvard's CS50: Intro
 
 ✅ Week 0 – Functions & Variables
 
-✅ Week 1 – Conditionals 
+✅ Week 1 – Conditionals ✅🚧
 
-🚧 Week 2 - Loops (IN PROGRESS)
+✅ Week 2 - Loops 
+
+🚧 Week 3 - Exceptions (IN PROGRESS)
 
 
 🚀 Why I Took CS50
@@ -18,11 +20,11 @@ It’s helping me build a solid foundation in Python before diving deeper into m
 
 💡 Highlights So Far
 
-I'm learning to think like a programmer, step by step.
+I'm learning to articulate myself using pseudo-code and journalling. It helps me plan my solutions better.
 
-I'm articulating logical solutions using correct syntax and structure.
+I am learning that it is not enough for the code to run, it need to run smoothly. Small hiccups become bigger ones later.
 
-I've written code to create simple but powerful tools like a calculator and a menu converter.
+I am beginning to code defensively - thinking of potential bugging issues ahead of time.
 
 
 🤔 Reflections
