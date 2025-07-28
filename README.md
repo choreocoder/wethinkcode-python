@@ -10,7 +10,9 @@ This repository contains my solutions and progress through Harvard's CS50: Intro
 
 ✅ Week 2 - Loops 
 
-🚧 Week 3 - Exceptions (IN PROGRESS)
+✅ Week 3 - Exceptions
+
+🚧 Week 4 - Libraires (IN PROGRESS)
 
 
 🚀 Why I Took CS50
@@ -20,19 +22,16 @@ It’s helping me build a solid foundation in Python before diving deeper into m
 
 💡 Highlights So Far
 
-I'm learning to articulate myself using pseudo-code and journalling. It helps me plan my solutions better.
+I’m learning to articulate my thoughts using pseudocode and journaling, which helps me plan solutions more effectively.
 
-I am learning that it is not enough for the code to run, it need to run smoothly. Small hiccups become bigger ones later.
+My critical thinking has improved — I’m better at separating concerns when needed and stacking code logically.
 
-I am beginning to code defensively - thinking of potential bugging issues ahead of time.
+Over the past few weeks, I’ve been synthesizing sections of my work, combining loops with input validation and more.
 
+I’m beginning to code defensively, prioritizing writing code that runs reliably rather than just code that works.
 
 🤔 Reflections
 
-Lately, I’ve been noticing how much of life is algorithmic — even making a breakfast sandwich involves a series of logical steps:
-take out crockery → place bread on plate → smear butter → combine slices → enjoy.
-
-This course has made me more conscious of the processes I follow — in life and in programming. It’s challenging me to be more intentional, more precise, and more effective at problem-solving — whether it’s for a good breakfast or a complex application.
-
+After a few weeks, this journey has been refreshing. I’m discovering that Python is a language of clarity and logic. When I feel frustrated, I remind myself that I might be expecting my program to do something I haven’t explicitly told it to do. Python has taught me the importance of clarity and specificity. Most importantly, I’m learning the order of operations — understanding what to do first, why, and how my program runs step by step.
 
 ---
