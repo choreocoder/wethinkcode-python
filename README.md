@@ -10,9 +10,11 @@ This repository contains my solutions and progress through Harvard's CS50: Intro
 
 ✅ Week 2 - Loops 
 
-✅ Week 3 - Exceptions
+✅ Week 3 - Exceptions  
 
-🚧 Week 4 - Libraires (IN PROGRESS)
+✅ Week 4 - Libraires 
+
+🚧 Week 5 - Unit Tests (IN PROGRESS)
 
 
 🚀 Why I Took CS50
