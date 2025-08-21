@@ -14,7 +14,9 @@ This repository contains my solutions and progress through Harvard's CS50: Intro
 
 ✅ Week 4 - Libraires 
 
-🚧 Week 5 - Unit Tests (IN PROGRESS)
+✅ Week 5 - Unit Testing
+
+🚧Week 6 - File I/O
 
 
 🚀 Why I Took CS50
