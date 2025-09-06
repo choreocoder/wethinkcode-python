@@ -1,57 +1,63 @@
-# 👋 Welcome!
+👋 Welcome!
 
-Hey there! This repository tracks my journey through **Harvard's CS50: Introduction to Programming with Python**.  
+Hey there! This repository tracks my journey through Harvard's CS50: Introduction to Programming with Python.
 Here, I share solutions, weekly highlights, and reflections as I build my Python foundation.
 
----
+🗂️ Weeks Completed
 
-## 🗂️ Weeks Completed
+✅ Week 0 – Functions & Variables
 
-✅ Week 0 – Functions & Variables  
-✅ Week 1 – Conditionals  
-✅ Week 2 – Loops  
-✅ Week 3 – Exceptions  
-✅ Week 4 – Libraries  
-✅ Week 5 – Unit Testing  
-🚧 Week 6 – File I/O  
+✅ Week 1 – Conditionals
 
-*(Weekly chapters and solutions are updated here as I progress.)*
+✅ Week 2 – Loops
 
----
+✅ Week 3 – Exceptions
 
-## 🚀 Why I’m Doing CS50
+✅ Week 4 – Libraries
 
-This course is part of the pre-curriculum for my journey toward **WeThinkCode_**.  
-It’s helping me **think like a programmer**, build confidence in Python, and prepare for more advanced concepts down the line.
+✅ Week 5 – Unit Testing
 
----
+✅ Week 6 – File I/O
 
-## 💡 Highlights So Far
+🚧 Week 7 – Regular Expressions (In Progress)
 
-- Using **pseudocode and journaling** to plan solutions — it really helps me articulate my thought process.  
-- **Critical thinking is improving**: I can separate concerns and stack code logically.  
-- Learning to **synthesize concepts** — combining loops, input validation, and exceptions.  
-- **Coding defensively**: writing code that doesn’t just work, but runs reliably.
+(Weekly chapters and solutions are updated here as I progress.)
 
----
 
-## 🤔 Reflections
+🚀 Why I’m Doing CS50
 
-Python is teaching me **clarity and precision**.  
-I’ve realized frustration often comes from expecting my code to do things I haven’t explicitly told it to do.  
-This journey has emphasized the **order of operations**: understanding what to do first, why, and how my program executes step by step.  
+This course is part of the pre-curriculum for WeThinkCode_.
+It’s helping me think like a programmer, build confidence in Python, and prepare for more advanced concepts.
 
-I’m learning that programming isn’t just about making something work — it’s about making something **work well, safely, and thoughtfully**.
+💡 Highlights So Far
 
----
+Using pseudocode and journaling to plan solutions.
 
-## 🔭 Next Steps
+Improving critical thinking: separating concerns and stacking code logically.
 
-- Complete **Week 6 – File I/O** exercises.  
-- Begin **Week 7 – Functions & Modules**.  
-- Continue applying **defensive coding** techniques.  
-- Update this README weekly with **highlights, reflections, and insights**.  
+Learning to synthesize concepts — combining loops, input validation, and exceptions.
 
----
+Practicing defensive coding to write reliable programs.
 
-*Every week, I try to leave a breadcrumb of what I’ve learned, so I can look back and see my growth. This is both a portfolio and a personal journal.*
+Exploring creative problem-solving — finding uncommon but effective solutions.
+
+🤔 Reflections
+
+Python is teaching me clarity and precision.
+Frustration often comes from expecting code to do things I haven’t explicitly told it to do.
+I’m learning to consider the order of operations: what to do first, why, and how programs execute step by step.
+
+Solving one problem often uncovers another — challenging me to think more defensively, stay flexible, and avoid complacency.
+Programming isn’t just about making something work — it’s about making it work well, safely, and thoughtfully.
+
+🔭 Next Steps
+
+Complete Week 8 – Regular Expressions exercises.
+
+Continue applying defensive coding techniques and exploring theoretical concepts.
+
+Build on CS50 foundations to prepare for WeThinkCode_ projects starting mid-September.
+
+Update this README weekly with highlights, reflections, and insights.
+
+Every week, I leave a breadcrumb of what I’ve learned — a mix of portfolio and personal journal to track my growth.
